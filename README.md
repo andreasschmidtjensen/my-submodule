@@ -1,2 +1,2 @@
-# submodule-main
+# my-submodule
 Test of git submodules
